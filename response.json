@@ -1,0 +1,1 @@
+{"dialogAction": {"type": "Close", "fulfillmentState": "Failed", "message": {"contentType": "PlainText", "content": "Error loading FAISS index: [Errno 2] No such file or directory: '/tmp/faiss_index/index.pkl'"}}}

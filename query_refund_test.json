@@ -1,0 +1,14 @@
+{
+  "sessionState": {
+    "intent": {
+      "name": "QueryIntent",
+      "slots": {
+        "Query": {
+          "value": {
+            "interpretedValue": "What is the refund policy?"
+          }
+        }
+      }
+    }
+  }
+}
